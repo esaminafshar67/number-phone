@@ -8,6 +8,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: red;
-    color: red;
+    background: blue;
+    color: blue;
 }
